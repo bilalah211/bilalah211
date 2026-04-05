@@ -12,7 +12,7 @@ My focus is on creating clean, readable code and integrating AI services to solv
 
 - 🌍 Based in: **UAE / Pakistan**
 - 🌱 Currently exploring: **AI Integration in Mobile Apps & Advanced State Management**
-- 💬 Ask me about: **Flutter, Dart, Hive, Firestore, and AI Decomposition**
+- 💬 Ask me about: **Flutter, Dart, Hive, Firestore, SharedPreferences, Deployment, AppStore, PlayStore **
 
 ---
 
