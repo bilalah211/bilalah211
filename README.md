@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bilal | Flutter & Mobile Developer
+# 👋 Hi, I'm Bilal Ahmad | Flutter & Mobile App Developer
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
