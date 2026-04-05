@@ -21,10 +21,10 @@ My focus is on creating clean, readable code and integrating AI services to solv
 | Category | Tech Stack |
 | :--- | :--- |
 | **Frontend** | Flutter, Dart (Clean Architecture) |
-| **State Management** | Provider, Bloc |
-| **Database** | Firebase Firestore, Hive, SQLite |
+| **State Management** | Provider, Bloc, Getx |
+| **Database** | Firebase Firestore, Hive, SQLite, No SQFLITE |
 | **Backend/Tools** | Cloudinary, OpenRouter AI, GitHub Actions |
-| **UI/UX** | Responsive Design, Custom Animations |
+| **UI/UX** | Responsive Design, Custom Animations, Custom Shapes |
 
 ---
 
