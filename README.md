@@ -4,10 +4,10 @@
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture-Clean_Architecture-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/State_Management-BLoC-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Local_DB-Hive_%2F_Shared_Prefs-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/UI_Design-Figma-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Architecture-Clean_Architecture-green?style=flat-square" height="28" />
+  <img src="https://img.shields.io/badge/State_Management-BLoC-blue?style=flat-square" height="28" />
+  <img src="https://img.shields.io/badge/Local_DB-Hive_%2F_Shared_Prefs-red?style=flat-square" height="28" />
+  <img src="https://img.shields.io/badge/UI_Design-Figma-purple?style=flat-square" height="28" />
   <img src="https://img.shields.io/badge/BLoC-546E7A?style=for-the-badge&logo=dart&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="28"/>
 </p>
