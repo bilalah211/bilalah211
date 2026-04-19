@@ -8,8 +8,10 @@
   
   <img src="https://img.shields.io/badge/Architecture-Clean_Architecture-9cf?style=for-the-badge&logo=architecture" height="28" />
   <img src="https://img.shields.io/badge/State_Management-BLoC-blue?style=for-the-badge&logo=dart" height="28" />
-  <img src="https://img.shields.io/badge/Local_DB-Hive_%2F_Prefs-red?style=for-the-badge" height="28" />
+  <img src="https://img.shields.io/badge/State_Management-Provider-02569B?style=for-the-badge&logo=dart&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/State_Management-GetX-E10098?style=for-the-badge&logo=getx&logoColor=white" height="28" />
   
+  <img src="https://img.shields.io/badge/Local_DB-Hive_%2F_Prefs-red?style=for-the-badge" height="28" />
   <img src="https://img.shields.io/badge/UI_Design-Figma-purple?style=for-the-badge&logo=figma&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="28" />
 </p>
