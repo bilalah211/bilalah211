@@ -43,8 +43,10 @@ My focus is on creating clean, readable code and integrating AI services to solv
 I'm always open to collaborating on innovative projects or discussing the future of mobile tech.
 
 * **WhatsApp (UAE):** `+971 56 674 2877`
-* **WhatsApp:** `+92 322 586 7698`
+* **WhatsApp (PAK):** `+92 322 586 7698`
 * **GitHub:** [@bilalah211](https://github.com/bilalah211)
+* **Fiverr:** [@Fiverr](http://www.fiverr.com/s/zWDzEab)
+* **LinkedIn:** [@LinkedIn](linkedin.com/in/bilal-ahmad-79a2a6258)
 
 ---
 <p align="center">
